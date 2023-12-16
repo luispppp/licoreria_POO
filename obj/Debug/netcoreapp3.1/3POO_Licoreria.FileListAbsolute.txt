@@ -1,0 +1,63 @@
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.exe
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.deps.json
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.runtimeconfig.json
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.dll
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.pdb
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.AssemblyInfo.cs
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.dll
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.pdb
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.genruntimeconfig.cache
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.exe
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.deps.json
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.runtimeconfig.json
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.dll
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.pdb
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.AssemblyInfo.cs
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.dll
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.pdb
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.genruntimeconfig.cache
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\DELL\source\repos\3POO_AppParaMedicamentos\3bpoo-appparamedicamentos\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.csproj.CopyComplete
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.exe
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.deps.json
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.runtimeconfig.json
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.runtimeconfig.dev.json
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.dll
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.pdb
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.AssemblyInfo.cs
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.csproj.CopyComplete
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.dll
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.pdb
+C:\Users\erick\Documents\Tercer Semestre\POO\Programas\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.genruntimeconfig.cache
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.exe
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.deps.json
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.runtimeconfig.json
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.runtimeconfig.dev.json
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.dll
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.pdb
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.csproj.AssemblyReference.cache
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.AssemblyInfoInputs.cache
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.AssemblyInfo.cs
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.csproj.CoreCompileInputs.cache
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.csproj.CopyComplete
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.dll
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.pdb
+C:\Users\Bailón\Desktop\3POO_AppParaMedicamentos\obj\Debug\netcoreapp3.1\3POO_AppParaMedicamentos.genruntimeconfig.cache

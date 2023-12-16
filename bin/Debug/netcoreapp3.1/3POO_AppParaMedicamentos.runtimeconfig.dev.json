@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Bailón\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Bailón\\.nuget\\packages"
+    ]
+  }
+}
